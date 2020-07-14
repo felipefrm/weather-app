@@ -26,8 +26,8 @@ footer a {
     font-weight: bold
 }
 
-footer a:hover {
-    font-weight: bold;
+a:hover {
+    transition: all .5s;
     filter: opacity(0.5);
 }
 
@@ -42,16 +42,13 @@ h1 {
 }
 
 a {
+    color: #888;
     text-decoration: none;
 }
 
 header a {
     margin: 0 16px;
     color: #888;
-}
-
-header a:hover {
-    filter: opacity(0.5);
 }
 
 .portrait {
