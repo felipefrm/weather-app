@@ -64,5 +64,5 @@ This project was developed with the following technologies:
 After merging your receipt request to done, you can delete a branch from yours.
 
 <h4 align="center">
-    Feito por 💜  <a href="https://www.linkedin.com/in/felipe-melo-a78504186/" target="_blank">Felipe Melo</a>
+    Made by 💜  <a href="https://www.linkedin.com/in/felipe-melo-a78504186/" target="_blank">Felipe Melo</a>
 </h4>
