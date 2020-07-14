@@ -60,7 +60,8 @@ input {
     outline: none;
     border: 1px solid #ccc;
     padding: 8px;
-    border-radius: 16px
+    margin: 8px;
+    border-radius: 16px;
 }
 
 button {
