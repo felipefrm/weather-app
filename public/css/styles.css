@@ -52,7 +52,8 @@ header a {
 }
 
 .portrait {
-    width: 250px;
+    margin: 50px;
+    width: 200px;
     border-radius: 25px;
 }
 
